@@ -1,4 +1,10 @@
+SIRALI LEDLER
+Bu uygulamada LED’lerin yanma sırasının anahtar vasıtasıyla değiştirilmesi amaçlanmaktadır.
+Gerekli Devre Elemanları
+• 1 adet mikrodenetleyici kart
+• 1 adet breadboard
+• 4 adet LED
+• 4 adet 220Ω (kırmızı, kırmızı, kahverengi, altın rengi) direnç
+• Bağlantı kabloları
 
-
-![Ekran görüntüsü 2022-10-27 114742](https://user-images.githubusercontent.com/114650482/198238225-5ad3a51b-2324-45a9-b404-7edd81511060.png)
-
+Ekran Alıntısı LED
